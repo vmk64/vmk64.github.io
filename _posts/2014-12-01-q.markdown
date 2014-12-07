@@ -1,6 +1,10 @@
 ---
 categories: test1
 ---
+{:toc}
 
+#первый
 Вторая запись
+
+#second
 {{ page.categories }}
