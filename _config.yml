@@ -81,12 +81,12 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
+          value: "Заголовок"
       - name: "author"
         field:
           element: "text"
           label: "Author"
-          value: ""
+          value: "Автор"
       - name: "tags"
         field:
           element: "multiselect"
@@ -95,3 +95,5 @@ prose:
           options:
             - name: 'Tech'
               value: 'tech'
+            - name: 'NONTech'
+              value: 'nontech'
