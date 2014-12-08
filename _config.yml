@@ -77,11 +77,6 @@ exclude:
 prose:
   metadata:
     _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: "Заголовок"
       - name: "author"
         field:
           element: "text"
