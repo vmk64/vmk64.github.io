@@ -73,3 +73,25 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
+          options:
+            - name: 'Tech'
+              value: 'tech'
