@@ -1,8 +1,11 @@
 ---
 categories: test1
 published: true
+title: Без заголовка
+tags: 
+  - tech
+author: Vladimir
 ---
-
 
 {:toc}
 
