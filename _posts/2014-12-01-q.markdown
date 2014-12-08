@@ -1,10 +1,23 @@
 ---
 categories: test1
+published: true
 ---
+
 {:toc}
 
-#первый
-Вторая запись
+1. item
+1. item
+1. item
 
-#second
+
+- item
+- item
+- item
+
+
+#первый
+Вторая запись 1
+34567
+
+##second
 {{ page.categories }}
